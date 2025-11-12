@@ -26,13 +26,22 @@ body {
 }
 
 nav {
-
+position: sticky;
+padding: 4px;
+top: 121px;
+z-index: 1;
+background:#344b50;
 }
 
 nav ul{
-
+max-width: 1600px;
+white-space: nowrap;
+margin: 0 auto;
+text-align: center;
 }
 
 nav li {
-
+width: 30%;
+display: flex;
+font-size: 20px;
 }

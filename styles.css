@@ -8,6 +8,7 @@ header{
     left: 0;
     z-index: 1;
 }
+
 header h1 {
     color: #87c0cc;
     border: 3px solid #70878b;
@@ -19,9 +20,19 @@ header h1 {
     font-weight: bold;
     font-size: 2em;
 }
+
 body {
     background-color: #63858b;
 }
-nav {}
-nav ul{}
-nav li {}
+
+nav {
+
+}
+
+nav ul{
+
+}
+
+nav li {
+
+}
